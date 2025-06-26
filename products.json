@@ -1,0 +1,35 @@
+{
+    "products": [
+        {
+            "id": "A1",
+            "name": "Keybpard",
+            "price": 75.0,
+            "stock": "available"
+        },
+        {
+            "id": "A2",
+            "name": "Mouse",
+            "price": 25.5,
+            "stock": "available"
+        },
+        {
+            "id": "A3",
+            "name": "Monitor",
+            "price": 300.0,
+            "stock": "available"
+        },
+        {
+            "id": "A4",
+            "name": "Webcam",
+            "price": 50.0,
+            "stock": "available"
+        },
+        {
+            "id": "A5",
+            "name": "Headphone",
+            "price": 120.0,
+            "stock": "available"
+        }
+    ],
+    "last_updated": "2025-06-24 23-42-16"
+}
